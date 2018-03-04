@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/m.ico</file>
+        <file>res/m.rc</file>
+        <file>res/file.ico</file>
+        <file>res/open.ico</file>
+    </qresource>
+</RCC>
